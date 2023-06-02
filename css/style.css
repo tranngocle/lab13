@@ -1,0 +1,24 @@
+body {
+  padding-bottom: 100%;
+}
+
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(../images/73304-1920x1080.jpg);
+  height: 500px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(../images/pexels-photo-15804621.jpeg);
+  height: 500px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(../images/pexels-photo-15843151.jpeg);
+  height: 500px;
+}
